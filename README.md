@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jurgenizer
-- 👀 I’m interested in mobile app development, online privacy and tech in general
-- 🌱 I’m currently learning Flutter
+- 👀 I’m interested in mobile app development, online privacy and information systems research
+- 🌱 I’m currently learning Flutter, QuPath and many other things
 - 📫 Reach me via my website please: https://www.jurgengeitner.com
 
 <!---
