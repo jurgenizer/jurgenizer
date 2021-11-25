@@ -1,6 +1,6 @@
 👋 Hi, I’m @jurgenizer
 
-👀 I’m interested in online privacy and information systems research and mobile app development
+👀 I’m interested in Information Systems research (privacy), mobile app development, web development
 
 🌱 I’m currently learning Flutter, JavaScript, QuPath...
 
