@@ -1,10 +1,10 @@
 👋 Hi, I’m @jurgenizer
 
-👀 I’m interested in Information Systems research (privacy), mobile app development, web development
+👀 Interested in UI/UX development, mobile app development, and information systems research
 
-🌱 I’m currently learning Flutter, JavaScript, QuPath...
+🌱 Currently learning Atom, Flutter, GSAP, JavaScript, CSS, Vite, Vitest...
 
-📫 Contact me via my website: https://www.jurgengeitner.com/contact/
+📫 Please contact me via: https://www.jurgengeitner.com/contact/
 
 <!---
 jurgenizer/jurgenizer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
